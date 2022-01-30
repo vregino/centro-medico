@@ -30,5 +30,5 @@ else
 {
 	header("location:../Vista/index2.php?pag=iniciarSesion&x=1");  //x=1, quiere decir que el usuario no esta registrado
 }
-
+// 
 ?>
